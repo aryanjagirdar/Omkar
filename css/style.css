@@ -1,0 +1,15 @@
+
+header{
+    background-color: #f5f1f1;
+    color: #1e00ff;
+    padding: 55px;
+    margin-left: 55px;
+    border: 2px solid #59a781;
+}
+
+.input{
+    padding-bottom: 15px;
+}
+.highlight-text{
+    color: red;
+}
